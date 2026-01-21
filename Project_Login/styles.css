@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    background-color: deepskyblue;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container */
+.container {
+    width: 400px;
+    background-color: rgb(27, 79, 157);
+    padding: 20px;
+    margin: 80px auto;
+    text-align: left;
+    color: white;
+    border-radius: 10px;
+    padding: 50px;
+box-shadow: 2px 20px 20px 0px black;
+}
+
+/* Profile Image */
+.container img {
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 50%;
+}
+
+ h2 {
+    color: rgb(5, 5, 104);
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30pt;
+}
+
+/* Input Section */
+input[type="text"],
+input[type="password"] {
+    background-color: rgb(5, 38, 104);
+    border: none;
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+
+/* Checkbox */
+.checkbox {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 130px;
+}
+
+/* Button */
+button {
+    background-color: deepskyblue;
+    color: white;
+    padding: 15px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: rgb(5, 5, 104);
+}
