@@ -1,0 +1,67 @@
+/* Background layout */
+
+body {
+  font-family: Arial, sans-serif;
+  background: darkgray;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 30px;
+  background: lightgray;
+  border-radius: 12px;
+  text-align: center;
+}
+
+/* Text design */
+h1 {
+  size: 32pt;
+  color: darkcyan;
+}
+
+h2 {
+  size: 22pt;
+  color: darkcyan;
+}
+h3 {
+  text-align: left;
+  padding-top: 20px;
+}
+ul {
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+/* Action text*/
+#title {
+  margin-bottom: 20px;
+}
+
+/* Image format */
+.image {
+  width: 200px;
+  padding-bottom: 20px;
+}
+
+/* Two buttons */
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+#send {
+  background: teal;
+  color: white;
+}
+
+#reset {
+  background: white;
+}
