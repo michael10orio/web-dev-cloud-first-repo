@@ -1,3 +1,12 @@
 # web-dev-cloud-first-repo
 
-This is test in GitHub
+Michael James Tenorio
+1929280
+
+- Create HTML, CSS, and JavaScript files
+- Design a simple developer service website with descriptions of skills and interests
+- For the requirements, I used basic HTML structure to insert all content, more than three CSS selectors to design the layout, and one JavaScript action to trigger an action (“Making an appointment”)
+- Provide screenshot of Git logs
+- Upload the files to  GitHub, screenshot the commits and provide link of GitHub
+- Here's the link 
+https://github.com/michael10orio/web-dev-cloud-first-repo/tree/eb30872fbd7a27e4debf722dc432f1b56a78b46c/Website_Service
